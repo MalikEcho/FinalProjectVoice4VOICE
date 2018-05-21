@@ -1,0 +1,37 @@
+body{background-image: url(PurpleBackground.jpg);
+    margin: 50px;
+   }
+a{
+text-align: left;
+    color:000000;
+    font-size:37px;
+}
+h1{ text-align: center;
+    font-size: 120px;
+        font-family:fantasy;
+    text-underline-position: below
+    }
+
+p{  font-size: 35;
+    font-family: monospace;
+}
+p.interview{color: rebeccapurple;
+font-family: serif;
+font-size: 45;
+border-bottom-style: groove;}
+.transBox{background-color:rgba(255,255,255,0.6);
+padding: 40px;
+    
+}
+h2{ text-align: left;
+    font-size: 35px; 
+}
+img{width: 40%;
+    margin-left: 30%;
+    margin-right: 25%;
+    
+}
+h2{font-size:50;
+    color:rebeccapurple;
+    border-bottom-style: groove;
+}
